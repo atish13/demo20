@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+Today is 19 Jan 2026
